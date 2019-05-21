@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Moleculight Camera Test</string>
+
+    <string name="camera_zero">Cam 0:</string>
+    <string name="camera_one">Cam 1:</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="capture">Capture</string>
+
+</resources>
